@@ -21,3 +21,6 @@ SHOW VARIABLES LIKE 'port';
 ```
 
 sudo systemctl restart mysql
+
+
+sudo mysql -u root -p
